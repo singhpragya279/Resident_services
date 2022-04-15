@@ -1,1 +1,404 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T07:33:04.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.4" etag="_66iECLsQ74dD116pfeO" type="github"><diagram id="WXqMXekDgx5rRZYrpgyG">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T07:33:17.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="sjBcqI3-Y7B0RGResZvW" version="17.4.4" type="github">
+  <diagram id="WXqMXekDgx5rRZYrpgyG" name="Page-1">
+    <mxGraphModel dx="1958" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zi_fruUjBb5enoTWOIKe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-2" target="zi_fruUjBb5enoTWOIKe-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-2" value="&lt;div&gt;&lt;span style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Navigates to &quot;&lt;b&gt;view history&quot;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="260" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-4" target="zi_fruUjBb5enoTWOIKe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-4" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Chooses the type of history:&lt;br&gt;1. credential consumption (auth and KYC)&lt;br&gt;2. operations performed&amp;nbsp; around credential (online and offline)&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-6" target="zi_fruUjBb5enoTWOIKe-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="287.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-6" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Chooses the date window of history (from and to)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="697.5" y="265" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFD966;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-8" target="zi_fruUjBb5enoTWOIKe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-8" value="&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Clicks on view history&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="910" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00CC66;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-10" target="zi_fruUjBb5enoTWOIKe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-10" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;History is displayed for the chosen date window&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="270" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-12" target="zi_fruUjBb5enoTWOIKe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-12" value="&#xa;&#xa;&lt;!--StartFragment--&gt;&lt;b style=&quot;font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: -0.07px; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Can choose to export/ download/ print it&lt;/b&gt;&lt;!--EndFragment--&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="1298" y="272.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-13" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email Id and mobile number&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="272.5" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#00CC66;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-15" target="zi_fruUjBb5enoTWOIKe-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;The resident&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="717.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="747.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;1. Enters UIN/VID&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2. Enters captcha&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;3&quot;&gt;3. Enters OTP&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="702.5" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-19" target="zi_fruUjBb5enoTWOIKe-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-19" value="&lt;div&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;lock/unlock an authentication type&quot;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="230" y="426.25" width="140" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-21" target="zi_fruUjBb5enoTWOIKe-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-21" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Using toggle button, the resident chooses the authentication types that he wants to lock/unlock&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="412.5" width="167.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-23" target="zi_fruUjBb5enoTWOIKe-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-23" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Enters UIN as a additional check&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="670" y="412.5" width="167.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-25" target="zi_fruUjBb5enoTWOIKe-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-25" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Accepts consent to lock/unlock authentication type&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="900" y="422.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-27" target="zi_fruUjBb5enoTWOIKe-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-27" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Authentication type is locked and relevant message is displayed&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="425" width="160" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-28" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email Id and mobile number&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FF66;" vertex="1" parent="1">
+          <mxGeometry x="1377.5" y="427.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-29" value="&lt;b&gt;After successful validation, a session is created&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="697.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="692.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-32" target="zi_fruUjBb5enoTWOIKe-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-32" value="&lt;div&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;Generate &amp;amp; manage VID&quot;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;arcSize=10;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="662.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-33" value="&lt;b style=&quot;letter-spacing: -0.07px ; font-size: 15px&quot;&gt;Chooses from the following&lt;br&gt;1. Generate VID&lt;br&gt;2. Revoke VID&lt;/b&gt;&lt;span style=&quot;letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="642.5" width="157.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-35" target="zi_fruUjBb5enoTWOIKe-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-35" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Navigates to &quot;Generate VID&quot; and clicks on submit&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="542.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-37" target="zi_fruUjBb5enoTWOIKe-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-37" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Chooses the type of VID&lt;br&gt;1. Perpetual VID&lt;br&gt;2. One-time VID&lt;br&gt;3. Temporary VID&lt;/b&gt;&lt;span style=&quot;font-size: 14px ; letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="538.75" width="130" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-39" target="zi_fruUjBb5enoTWOIKe-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-39" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Clicks on &quot;Submit&quot; button&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="547.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-41" target="zi_fruUjBb5enoTWOIKe-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-41" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets new VID, VID type, VID features and option to send the VID to registered mobile number or email ID&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="540" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-42" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email and mobile number&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="547.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-44" target="zi_fruUjBb5enoTWOIKe-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-44" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Navigates to &quot;Revoke VID&quot; and&amp;nbsp;clicks on submit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="792.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-46" target="zi_fruUjBb5enoTWOIKe-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-46" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Chooses from the list of active masked VIDs&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="890" y="795" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-48" target="zi_fruUjBb5enoTWOIKe-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-48" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Accepts consent and&lt;br&gt;Clicks on &quot;revoke VID&quot; button&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="797.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#FFFF66;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-50" target="zi_fruUjBb5enoTWOIKe-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-50" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets a message: Your 33xxxx VID has been revoked&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="797.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-51" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email and mobile number&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF66;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="797.5" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-52" value="" style="endArrow=none;html=1;fillColor=#00CC66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1321.2499999999998" as="sourcePoint" />
+            <mxPoint x="130" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-53" value="" style="endArrow=classic;html=1;fillColor=#00CC66;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="582.5" as="sourcePoint" />
+            <mxPoint x="1030" y="652.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-54" value="" style="endArrow=classic;html=1;fillColor=#00CC66;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="832.4999999999998" as="sourcePoint" />
+            <mxPoint x="690" y="832.4999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-55" value="" style="endArrow=none;html=1;fillColor=#00CC66;shadow=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="832.4999999999998" as="sourcePoint" />
+            <mxPoint x="650" y="582.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-56" value="&lt;div&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;Self-update demograhic data&quot;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFB3;arcSize=10;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1036.36" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-58" target="zi_fruUjBb5enoTWOIKe-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-58" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Chooses from the below options:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Update name&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2. Update DOB&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3. Update gender&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;4. Update address&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1084.44" width="200" height="118.44" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-60" target="zi_fruUjBb5enoTWOIKe-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-60" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;Enters the new data to be updated and a&lt;/b&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;ccepts consent&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;align=center;" vertex="1" parent="1">
+          <mxGeometry x="721.25" y="1096.16" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-62" target="zi_fruUjBb5enoTWOIKe-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-62" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Chooses the document type (as POI/POA) or enters document ref num and uploads/scans the document and clicks on proceed&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1080.3000000000002" width="150" height="126.72" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-64" target="zi_fruUjBb5enoTWOIKe-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-64" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Resident is redirected to the payment gateway page, he pays there: Out of scope for us.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1093.41" width="132" height="100.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-66" target="zi_fruUjBb5enoTWOIKe-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-66" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets a popup confirmation message as &quot;request submitted successfully&quot; + Application ID&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="1086.63" width="120" height="114.05" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-67" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email Id and mobile number&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="1701.25" y="1101.3600000000001" width="128.75" height="84.58" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-69" target="zi_fruUjBb5enoTWOIKe-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-69" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;Chooses from the below options:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Update phone number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Update email ID&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="944.3800000000001" width="180" height="113.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-71" target="zi_fruUjBb5enoTWOIKe-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-71" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;He is asked for a consent&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="670" y="956.25" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00CC66;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-73" target="zi_fruUjBb5enoTWOIKe-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-73" value="&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Enters the new email ID/ phone number&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="953.75" width="120" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00CC66;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-75" target="zi_fruUjBb5enoTWOIKe-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-75" value="&lt;b style=&quot;letter-spacing: -0.07px ; font-size: 14px&quot;&gt;1. Gets an OTP over the new email ID/ phone number&lt;br&gt;2. Enters the OTP&lt;/b&gt;&lt;span style=&quot;letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="958.76" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00CC66;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-77" target="zi_fruUjBb5enoTWOIKe-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-77" value="&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Email ID/phone number is updated&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1304" y="953.76" width="118" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-78" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Gets notification over registered email Id and mobile number&lt;/b&gt;&lt;span style=&quot;letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B9E0A5;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1505" y="953.76" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-79" value="" style="endArrow=none;html=1;fillColor=#00CC66;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1024.5" as="sourcePoint" />
+            <mxPoint x="380" y="1069.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-80" value="" style="endArrow=none;html=1;fillColor=#00CC66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1142.4999999999998" as="sourcePoint" />
+            <mxPoint x="380" y="1004.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-81" value="" style="endArrow=classic;html=1;fillColor=#00CC66;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1002.4999999999998" as="sourcePoint" />
+            <mxPoint x="450" y="1002.4999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="1002.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-82" value="" style="endArrow=classic;html=1;fillColor=#00CC66;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1142.4999999999998" as="sourcePoint" />
+            <mxPoint x="460" y="1125.6000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-83" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;span style=&quot;text-align: left ; text-indent: 0px ; float: none ; display: inline&quot;&gt;&lt;b&gt;Navigates to &quot;manage UIN/VID&quot;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF66B3;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="707.5" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-84" value="UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1042.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-85" value="UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="422.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-86" value="" style="endArrow=none;html=1;fillColor=#00CC66;exitX=1;exitY=0.5;exitDx=0;exitDy=0;shadow=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="622.5" as="sourcePoint" />
+            <mxPoint x="650" y="692.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-87" value="UIN/VID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="255" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-88" value="UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="652.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-91" target="zi_fruUjBb5enoTWOIKe-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="431.25" y="1595" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-91" target="zi_fruUjBb5enoTWOIKe-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-91" value="Enter UIN/VID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-92" value="Asks him to enter UIN for specific activities" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="311.25" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-93" value="Lets him perform everything" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-94" value="Enter VID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="1560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-95" value="Enters UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="481.25" y="1485" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-96" value="" style="endArrow=classic;html=1;entryX=-0.005;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1073.5" as="sourcePoint" />
+            <mxPoint x="940" y="1108.25" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-97" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="462.5" as="sourcePoint" />
+            <mxPoint x="110" y="362.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-111" target="zi_fruUjBb5enoTWOIKe-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-100" target="zi_fruUjBb5enoTWOIKe-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-100" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Enters the UIN and the data that he needs to update&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="471.25" y="1290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-102" target="zi_fruUjBb5enoTWOIKe-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-102" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Chooses the date, and time slot&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1290" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-104" target="zi_fruUjBb5enoTWOIKe-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-104" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;1. Views the preview page which contains the purpose of booking and other booking details&amp;nbsp;&lt;br&gt;2. Clicks on &quot;book appointment&quot;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1270" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-106" target="zi_fruUjBb5enoTWOIKe-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-106" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gets a confirmation page with details about the booking&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1270" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-107" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;Gets notification over registered email Id and mobile number&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="1270" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zi_fruUjBb5enoTWOIKe-109" target="zi_fruUjBb5enoTWOIKe-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-109" value="&lt;b style=&quot;font-size: 14px ; letter-spacing: -0.07px&quot;&gt;Views the final preview page, accepts consent and clicks on proceed&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F19C99;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1097.92" width="150" height="91.48" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-110" value="" style="endArrow=classic;html=1;" edge="1" parent="1" target="zi_fruUjBb5enoTWOIKe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="302.5" as="sourcePoint" />
+            <mxPoint x="210" y="317.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="302.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-111" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;&lt;b&gt;book appointment to update demographic data&lt;/b&gt;&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zi_fruUjBb5enoTWOIKe-112" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="1319.9999999999998" as="sourcePoint" />
+            <mxPoint x="210" y="1319.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="1320" />
+              <mxPoint x="210" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
