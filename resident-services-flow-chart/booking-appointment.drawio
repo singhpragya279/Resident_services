@@ -1,1 +1,110 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T07:31:55.822Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="17.4.4" etag="5Rpt2Sd9OefNPaHqmR2N" type="github"><diagram id="wqg3T2aDArgh9M1__XwY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-15T07:32:06.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="h1rd4QG61W7Nthodrgtx" version="17.4.4" type="github">
+  <diagram id="wqg3T2aDArgh9M1__XwY" name="Page-1">
+    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-1" value="&lt;font style=&quot;font-size: 15px&quot;&gt;The resident&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;fillColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="40" y="170" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-3" target="8lNSX9wm65Vy5whT2LRk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-3" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;text-align: left&quot;&gt;Navigates to &quot;&lt;b&gt;MOSIP booking center&amp;nbsp;&lt;/b&gt;&lt;/span&gt;“&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-5" target="8lNSX9wm65Vy5whT2LRk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-5" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Enters email Id and phone number&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2. Enters captcha&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;3. Enters OTP&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;arcSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-6" value="&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;1. Navigates to &quot;&lt;b&gt;book appointment for other purpose&lt;/b&gt;&quot;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;2. Enters purpose of visit in a text box&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C3ABD0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-7" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Navigate to &quot;&lt;b&gt;retrieve lost UIN&lt;/b&gt;&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFD966;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-9" target="8lNSX9wm65Vy5whT2LRk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Chooses registration center and time slot&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-11" target="8lNSX9wm65Vy5whT2LRk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-11" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1. Views the preview page&lt;br&gt;2. Clicks on &quot;Book appointment&quot;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="870" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#00CC66;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-13" target="8lNSX9wm65Vy5whT2LRk-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-13" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Gets the booking acknowledgement details&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Gets a notification of the transaction over registered email Id &amp;amp; phone number&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="140" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-15" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-1" target="8lNSX9wm65Vy5whT2LRk-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="280" as="sourcePoint" />
+            <mxPoint x="580" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-16" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-5" target="8lNSX9wm65Vy5whT2LRk-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="280" as="sourcePoint" />
+            <mxPoint x="600" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="80" />
+              <mxPoint x="430" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-17" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-7" target="8lNSX9wm65Vy5whT2LRk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="200" as="sourcePoint" />
+            <mxPoint x="470" y="90" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-18" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-5" target="8lNSX9wm65Vy5whT2LRk-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="340" as="sourcePoint" />
+            <mxPoint x="390" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="325" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-19" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-6" target="8lNSX9wm65Vy5whT2LRk-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="90" as="sourcePoint" />
+            <mxPoint x="690" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-20" value="After successful validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-21" value="After successful validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8lNSX9wm65Vy5whT2LRk-23" target="8lNSX9wm65Vy5whT2LRk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-23" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Navigate to &quot;&lt;b&gt;apply for new enrolment&lt;/b&gt;&quot;&lt;br&gt;and fills the pre-registration form&lt;/font&gt;&lt;span style=&quot;font-size: 14px ; letter-spacing: -0.07px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#99FF99;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8lNSX9wm65Vy5whT2LRk-24" value="After successful validation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="170" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
