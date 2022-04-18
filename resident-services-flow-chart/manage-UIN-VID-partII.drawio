@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-15T17:00:25.702Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MZ9e-iWVT3_4S1MDP8Qg" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T04:29:27.033Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="CbaGgpFFbTXBhtQnCAgl" version="17.4.4" type="github">
   <diagram id="ErrK__2Ashy6O33gBFEh" name="Page-1">
-    <mxGraphModel dx="2697" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2555" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,7 +16,7 @@
         <mxCell id="H1gef3cxJMj5wTAOUURC-4" value="&lt;b&gt;After successful validation, a session is created&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="1150" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="H1gef3cxJMj5wTAOUURC-5" value="&lt;div&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;Self-update demograhic data&quot;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFB3;arcSize=10;" parent="1" vertex="1">
+        <mxCell id="H1gef3cxJMj5wTAOUURC-5" value="&lt;div&gt;&lt;b style=&quot;letter-spacing: -0.07px&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to &quot;Self-update demographic data&quot;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#66FFB3;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="210" y="1036.36" width="120" height="65" as="geometry" />
         </mxCell>
         <mxCell id="H1gef3cxJMj5wTAOUURC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="H1gef3cxJMj5wTAOUURC-7" target="H1gef3cxJMj5wTAOUURC-9" edge="1">
@@ -186,40 +186,40 @@
             <mxPoint x="130" y="1199.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="1zS6b_EouAm9giCnK2Hu-4">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="1zS6b_EouAm9giCnK2Hu-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="1480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1zS6b_EouAm9giCnK2Hu-4">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1zS6b_EouAm9giCnK2Hu-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to&lt;b&gt; &quot;Track request using AID&quot;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;arcSize=10;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-4" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Navigates to&lt;b&gt; &quot;Track request using AID&quot;&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;arcSize=10;" parent="1" vertex="1">
           <mxGeometry x="200" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1zS6b_EouAm9giCnK2Hu-8" target="1zS6b_EouAm9giCnK2Hu-10">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1zS6b_EouAm9giCnK2Hu-8" target="1zS6b_EouAm9giCnK2Hu-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="490" y="1479.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Enters AID&lt;br&gt;and clicks on Submit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Enters AID&lt;br&gt;and clicks on Submit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="390" y="1439.99" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1zS6b_EouAm9giCnK2Hu-10" target="1zS6b_EouAm9giCnK2Hu-12">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1zS6b_EouAm9giCnK2Hu-10" target="1zS6b_EouAm9giCnK2Hu-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gets the status associated with the AID&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-10" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gets the status associated with the AID&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;" parent="1" vertex="1">
           <mxGeometry x="580" y="1429.3700000000001" width="130" height="101.25" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gets a notification of the transaction over registered email Id &amp;amp; phone number&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;shadow=0;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-12" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Gets a notification of the transaction over registered email Id &amp;amp; phone number&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D5E8D4;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="1432.18" width="150" height="95.62" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-13" value="UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-13" value="UIN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="1280" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1zS6b_EouAm9giCnK2Hu-14" value="UIN/VID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1zS6b_EouAm9giCnK2Hu-14" value="UIN/VID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="1429.37" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
